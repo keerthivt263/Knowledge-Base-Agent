@@ -1,4 +1,7 @@
-# 📚 Knowledge Base Agent (Local RAG System — No Paid APIs)
+# 📚 Knowledge Base Agent 
+
+🚀 **Live Demo (Streamlit):**  
+https://your-streamlit-app-url-here
 
 A fully local, privacy-friendly Knowledge Base Agent that lets you upload PDFs, index them into a vector database, and ask natural language questions. The system retrieves top-K relevant chunks, highlights document sources, and can optionally generate answers using an offline model.  
 Everything runs locally — no API keys or paid services required.
