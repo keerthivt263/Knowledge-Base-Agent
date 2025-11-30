@@ -13,6 +13,3 @@ Also embedded in README.md.
 
 ## 📝 Project Overview
 All instructions, setup guide, and explanation are in README.md.
-
-## 🎥 Demo Video (Optional)
-https://link-to-your-video-if-you-create-one
